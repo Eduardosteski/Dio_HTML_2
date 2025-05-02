@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinica Center</title>
+    <link rel="stylesheet" href="base.css">
+    
+</head>
+<body>
+
+    <div> 
+        <img src="https://image.freepik.com/vetores-gratis/modelo-de-logotipo-da-clinica-medica_8188-16.jpg" alt="" style="display: block; margin: 0 auto;">>
+        
+
+    </div>
+
+       <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="#"><H1>Home</H1></a></li>
+                <li><a href="Sobre.html"><H1>Sobre</H1></a></li>
+                <li><a href="atendimento.html"><H1>Atendimento</H1></a></li>
+                <li><a href="contato.html"><H1>Contato</H1></a></li>
+
+            </ul>
+            
+        </div>
+
+        <div class="main">
+            <div class="header">
+                
+                <h1>Bem-vindo à Clinica Center!</h1>
+                <p>Somos referência em cuidado com a saúde, oferecendo um atendimento acolhedor e personalizado. Com uma equipe de especialistas altamente qualificados e uma infraestrutura moderna, unimos tecnologia e dedicação para garantir o melhor para você. Aqui, sua saúde está em boas mãos. Navegue pelo nosso site e descubra as especialidades, tratamentos e serviços que farão diferença na sua qualidade de vida. Sua confiança é o nosso maior compromisso</p>
+            </div>
+    
+            <div class="atendimento">
+
+                
+                
+            </div>
+    
+            <div class="footer">
+                
+                <!-- Aqui vai o seu rodapé -->
+                <div class="social-media">
+                    <h4>Siga-nos nas Redes Sociais</h4>
+                    <a href="#" class="social-icon"><img src="img/facebook.png" alt="Facebook"></a>
+                    <a href="#" class="social-icon"><img src="img/insta.png" alt="Instagram"></a>
+                    <a href="#" class="social-icon"><img src="img/x-social-media-black-icon.png" alt="X"></a>
+                    <a href="#" class="social-icon"><img src="img/linkdin.png" alt="LinkedIn"></a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
